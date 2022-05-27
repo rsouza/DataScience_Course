@@ -1,7 +1,6 @@
-# FGV_Intro_DS
-Introduction to Data Science @ FGV
+# Introduction to Data Science
 
-Instructor: [Renato Rocha Souza](http://emap.fgv.br/corpo-docente/renato-rocha-souza)
+Instructor: Renato Rocha Souza
 
 This is the repository of code for the "Introduction to Data Science"
 
