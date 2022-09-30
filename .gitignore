@@ -1,6 +1,7 @@
 .ipynb_checkpoints/
 Outputs/
-Data/Kaggle
+Data/Kaggle/BOWPopcorn
+Data/Kaggle/CatsDogs
 Data/Zip
 Data/Word2vec
 Data/Miscellaneous
